@@ -13,17 +13,17 @@ I am a detail-oriented **Web Developer & Software Engineering graduate** based i
 
 ### 🧰 Tech Stack & Tools
 
+* **Languages:** JavaScript (ES6+), HTML5, CSS3, PHP
+* **Frameworks & Libraries:** React.js, Tailwind CSS, Node.js, Express.js
+* **CMS & Page Builders:** WordPress, Divi Builder, Elementor
+* **Design & Tools:** Figma, Git, GitHub, Adobe Creative Suite
+
 <!-- Frontend & Languages -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-* **Languages:** JavaScript (ES6+), HTML5, CSS3, PHP
-* **Frameworks & Libraries:** React.js, Tailwind CSS, Node.js, Express.js
-* **CMS & Page Builders:** WordPress, Divi Builder, Elementor
-* **Design & Tools:** Figma, Git, GitHub, Adobe Creative Suite
 
 ---
 
